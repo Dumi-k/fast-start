@@ -1,5 +1,7 @@
 # Fast Start
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/horosgrisa/fast-start.svg)](https://greenkeeper.io/)
+
 This is a lightweight framework used to create and compile your site
 
 Latest docs accesible only in russian [README.RU.md](README.RU.md)
